@@ -1,2 +1,1 @@
-# Small-Worldness-in-Deep-Reinforcement-Learning
-Buidling on previous topology playground code
+# Structure-Function-Analysis-of-Network-Topologies
